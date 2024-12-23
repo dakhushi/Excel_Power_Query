@@ -14,4 +14,6 @@ Exploring Power Query, a feature in Excel that allows you to quickly import data
 - Conditional and Custom Columns
 
 ### Resources
-[Excel: Power Query (Get & Transform)](https://www.linkedin.com/learning/excel-power-query-get-transform-23753644/make-your-data-useful-with-power-query?resume=false&u=113762738)
+- [Linked In Course- Excel: Power Query (Get & Transform)](https://www.linkedin.com/learning/excel-power-query-get-transform-23753644/make-your-data-useful-with-power-query?resume=false&u=113762738)
+
+- [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
